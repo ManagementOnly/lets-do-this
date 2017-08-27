@@ -1,5 +1,5 @@
 #NessBenavides
-#universidad hispanoamericana
+
 #programacion de un algoridmo que estime el maximo comun divisor
 #a partir de una lista de numeros 
 
